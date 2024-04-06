@@ -93,7 +93,7 @@ namespace Presentacion
         }
         private void frmMenu_Load(object sender, EventArgs e)
         {
-            txtUsuario.Text = "andinoc";
+            txtUsuario.Text = "sloachamin";
             txtContraseña.Text = "12345";
         }
 
